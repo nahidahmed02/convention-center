@@ -5,3 +5,13 @@
 body,nav{
     font-family: 'Poppins', sans-serif;
 }
+
+
+
+
+/* media queries */
+@media only screen and (max-width: 576px) {
+    .carousel-caption h1,p,a{
+        font-size: 60%;
+    }
+}
