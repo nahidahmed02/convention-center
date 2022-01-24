@@ -6,6 +6,11 @@ body,nav{
     font-family: 'Poppins', sans-serif;
 }
 
+/* package */
+.package-three{
+    border-radius: 20px;
+    background-color: rgba(202, 53, 68);;
+}
 
 
 
